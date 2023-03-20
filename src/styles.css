@@ -1,0 +1,22 @@
+html {
+    background-color: rgb(17, 96, 170);
+    color: white
+}
+
+input,
+input:focus,
+input:hover {
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    padding-left: 10px;
+    height: 18px;
+}
+
+.temp {
+    display: flex;
+    width: 100vw;
+    height: 20vh;
+    align-items: center;
+    justify-content: space-around;
+}
